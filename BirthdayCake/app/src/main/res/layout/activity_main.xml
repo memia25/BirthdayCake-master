@@ -92,7 +92,7 @@
                 android:id="@+id/BlowOut"
                 android:layout_width="200dp"
                 android:layout_height="50dp"
-                android:text="BLOW OUT" />
+                android:text="Extinguish" />
 
             <Button
                 android:id="@+id/button2"
